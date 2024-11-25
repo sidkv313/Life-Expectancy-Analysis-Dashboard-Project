@@ -14,7 +14,9 @@ The dataset used in this project includes key variables like **Life Expectancy**
    - Bar charts and line charts to show life expectancy trends over time.
    - Table for top 10 countries with the highest/lowest life expectancy.
 ![pbi-1](pictures/pbi-1.png)
+
 ![pbi-2](pictures/pbi-2.png)
+
 ![pbi-3](pictures/pbi-3.png)
 2. **Life Expectancy vs. Economic Indicators**  
    - Scatter plot to show the relationship between Life Expectancy and GDP.
