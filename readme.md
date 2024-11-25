@@ -17,30 +17,42 @@ The dataset used in this project includes key variables like **Life Expectancy**
 
 ![pbi-2](pictures/pbi-2.PNG)
 
-![pbi-3](pictures/pbi-3.PNG)
+![pbi-3](pictures/pbi-3.png)
+
+
+![pbi-4](pictures/pbi-4.PNG)
+
 2. **Life Expectancy vs. Economic Indicators**  
    - Scatter plot to show the relationship between Life Expectancy and GDP.
    - Analysis of Total Expenditure and its effect on Life Expectancy.
 
-![pbi-4](pictures/pbi-4.PNG)
+![pbi-5](pictures/pbi-5.PNG)
 
 3. **Health Indicators and Life Expectancy**  
    - Scatter plots for the relationship between life expectancy and health indicators like adult mortality and infant deaths.
    - Visualization of vaccination rates and their correlation with life expectancy.
-![pbi-5](pictures/pbi-5.PNG)
+
+![pbi-6](pictures/pbi-6.PNG)
+
 4. **BMI and Life Expectancy**  
    - Scatter plot of BMI vs. life expectancy.
    - Trend analysis of average BMI over time.
-![pbi-6](pictures/pbi-6.PNG)
+
+![pbi-7](pictures/pbi-7.PNG)
+
 5. **Infant and Under-Five Mortality**  
    - Visualizations of infant mortality and under-five deaths by country.
    - Analysis of the relationship between mortality rates and life expectancy.
-![pbi-7](pictures/pbi-7.PNG)
+
+![pbi-8](pictures/pbi-8.PNG)
+
 6. **Education and Life Expectancy**  
    - Scatter plot to show the impact of schooling years on life expectancy.
    - Trend analysis of education levels over time.
-![pbi-8](pictures/pbi-8.PNG)
+
 ![pbi-9](pictures/pbi-9.PNG)
+
+6. **A Table Overview of Average Values of the above Mentioned parameters**  
 ![pbi-10](pictures/pbi-10.PNG)
 
 ### Interactivity:
