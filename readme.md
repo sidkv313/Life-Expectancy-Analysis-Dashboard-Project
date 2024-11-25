@@ -17,27 +17,31 @@ The dataset used in this project includes key variables like **Life Expectancy**
 
 ![pbi-2](pictures/pbi-2.PNG)
 
-![pbi-3](pictures/pbi-3.png)
+![pbi-3](pictures/pbi-3.PNG)
 2. **Life Expectancy vs. Economic Indicators**  
    - Scatter plot to show the relationship between Life Expectancy and GDP.
    - Analysis of Total Expenditure and its effect on Life Expectancy.
 
+![pbi-4](pictures/pbi-4.PNG)
+
 3. **Health Indicators and Life Expectancy**  
    - Scatter plots for the relationship between life expectancy and health indicators like adult mortality and infant deaths.
    - Visualization of vaccination rates and their correlation with life expectancy.
-
+![pbi-5](pictures/pbi-5.PNG)
 4. **BMI and Life Expectancy**  
    - Scatter plot of BMI vs. life expectancy.
    - Trend analysis of average BMI over time.
-
+![pbi-6](pictures/pbi-6.PNG)
 5. **Infant and Under-Five Mortality**  
    - Visualizations of infant mortality and under-five deaths by country.
    - Analysis of the relationship between mortality rates and life expectancy.
-
+![pbi-7](pictures/pbi-7.PNG)
 6. **Education and Life Expectancy**  
    - Scatter plot to show the impact of schooling years on life expectancy.
    - Trend analysis of education levels over time.
-
+![pbi-8](pictures/pbi-8.PNG)
+![pbi-9](pictures/pbi-9.PNG)
+![pbi-10](pictures/pbi-10.PNG)
 
 ### Interactivity:
 - **Filters and Slicers**: Each dashboard includes slicers for filtering data by **Country**, **Year**, **Region**, and other key metrics, allowing users to interactively explore the data.
