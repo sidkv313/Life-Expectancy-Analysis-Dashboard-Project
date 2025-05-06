@@ -85,4 +85,4 @@ The dataset used for this project contains the following key columns:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/ksid10/powerbi_portfolio.git
+   git clone https://github.com/sidkv313/powerbi_portfolio.git
